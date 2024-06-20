@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Define the URL of the news website
-url = "https://www.example.com/news/article123"  # Replace with the actual URL
+url = "https://www.newindianexpress.com/states/andhra-pradesh"  # Replace with the actual URL
 
 # Send a GET request to the website
 response = requests.get(url)
